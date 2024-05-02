@@ -8,7 +8,7 @@ About 200 new questions have been added, with plans to add at least 1000 more in
 
 ### Installation:
 - Go to the `Releases` page.
-- Download the latest version.
+- Download the latest version of the zip file.
 - Open the Game directory. Inside, you'll find a `Submods` folder.
 - Within the `Submods` folder, open the `ExtraGamesSubmod` directory.
 - Inside `ExtraGamesSubmod` you'll find the `Millionaire` folder.
