@@ -7,12 +7,12 @@ About 200 new questions have been added, with plans to add at least 1000 more in
 ![Description](https://github.com/Yuuki69g/More-Questions-for-The-Millionaire-Game-Monika-After-Story/blob/main/Mario.png)
 
 ### Installation:
-Go to the 'Releases' page.
-Download the latest version.
-Open the Game directory. Inside, you'll find a 'Submods' folder.
-Within the 'Submods' folder, open the 'ExtraGamesSubmod' directory.
-Inside 'ExtraGamesSubmod,' you'll find the 'Millionaire' folder.
-Drag and drop the question files into the 'Millionaire' folder to replace the old files.
+- Go to the 'Releases' page.
+- Download the latest version.
+- Open the Game directory. Inside, you'll find a 'Submods' folder.
+- Within the 'Submods' folder, open the 'ExtraGamesSubmod' directory.
+- Inside 'ExtraGamesSubmod,' you'll find the 'Millionaire' folder.
+- Drag and drop the question files into the 'Millionaire' folder to replace the old files.
 
 ### Description of the modification:
 This mod is straightforward—it adds new questions to the Submod called [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games). 
