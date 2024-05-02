@@ -19,7 +19,7 @@ About 200 new questions have been added, with plans to add at least 1000 more in
 - Drag and drop the question files into the `Millionaire` folder to replace the old files.
   
 ### Description of the modification:
-This mod is straightforward—it adds new questions for Millionaire game the to the Submod called [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games). 
+This mod is straightforward: It adds new questions for the Millionaire game to the Submod called [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games). 
 The original Submod was created by the amazing [Dsfan2](https://github.com/Dsfan2).
 The new questions were made with my general knowledge and help of ChatGPT to ensure proper formatting and grammar. 
 This modification keeps the original questions intact while adding more across all question files.
