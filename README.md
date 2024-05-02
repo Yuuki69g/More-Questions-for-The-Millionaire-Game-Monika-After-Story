@@ -7,7 +7,7 @@ About 200 new questions have been added, with plans to add at least 1000 more in
 ![Description](https://github.com/Yuuki69g/More-Questions-for-The-Millionaire-Game-Monika-After-Story/blob/main/Mario.png)
 
 ### What You Need:
-- You must have at least 100 affection and have played at least 20 of the other games to unlock the first game.
+- You must have at least 100 affection and have played at least 20 of the other games to unlock the game.
 - You need to have the [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games) installed.
 
 ### Installation:
