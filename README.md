@@ -1,5 +1,5 @@
 ### THIS MODIFICATION IS CURRENTLY IN BETA. QUESTIONS WILL BE CHANGED AND ADDED IN FUTURE UPDATES
-[MAS: Extra Games Submod](https://github.com/Yuuki69g/More-Questions-for-The-Millionaire-Game-Monika-After-Story/blob/main/John.png)
+![Description](https://github.com/Yuuki69g/More-Questions-for-The-Millionaire-Game-Monika-After-Story/blob/main/John.png)
 A modification for The Millionaire Game that adds new questions! Are you tired of answering the same old questions over and over? This modification brings over 200 new questions for you to tackle! With a focus on video games, particularly Mario and Nintendo. And that's not all—general knowledge questions are included too! Get ready for a whole new level of fun, with even more questions coming in future updates!
 
 ### Current number of new questions: 
