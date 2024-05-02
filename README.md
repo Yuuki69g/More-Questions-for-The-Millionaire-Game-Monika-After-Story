@@ -17,7 +17,7 @@ About 200 new questions have been added, with plans to add at least 1000 more in
 - Within the `Submods` folder, open the `ExtraGamesSubmod` directory.
 - Inside `ExtraGamesSubmod`, find the `Millionaire` folder.
 - Drag and drop the question files into the `Millionaire` folder to replace the old files.
-- 
+  
 ### Description of the modification:
 This mod is straightforward—it adds new questions for Millionaire game the to the Submod called [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games). 
 The original Submod was created by the amazing [Dsfan2](https://github.com/Dsfan2).
