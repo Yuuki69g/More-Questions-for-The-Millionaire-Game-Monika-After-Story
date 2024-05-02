@@ -13,6 +13,8 @@ About 200 new questions have been added, with plans to add at least 1000 more in
 - Within the `Submods` folder, open the `ExtraGamesSubmod` directory.
 - Inside `ExtraGamesSubmod` you'll find the `Millionaire` folder.
 - Drag and drop the question files into the `Millionaire` folder to replace the old files.
+- You must have at least 100 affection and have played at least 20 of the other games to unlock the first game.
+* You need to have already installed the [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games)
 
 ### Description of the modification:
 This mod is straightforward—it adds new questions to the Submod called [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games). 
