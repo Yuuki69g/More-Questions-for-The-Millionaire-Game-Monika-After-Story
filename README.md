@@ -3,6 +3,7 @@
 A modification for [ExtraGamesSubmod](https://github.com/Dsfan2/ExtraGamesSubmod?tab=readme-ov-file#current-games) that adds new questions! Are you tired of answering the same old questions over and over? This modification brings over 200 new questions for you to tackle! With a focus on video games, particularly Mario and Nintendo. And that's not all—general knowledge questions are included too! Get ready for a whole new level of fun, with even more questions coming in future updates!
 
 ### Current number of new questions: 
+![Description](https://github.com/Yuuki69g/More-Questions-for-The-Millionaire-Game-Monika-After-Story/blob/main/Mario.png)
 About 200 new questions have been added, with plans to add at least 1000 more in the future.
 
 ### Description of the modification:
